@@ -1,0 +1,41 @@
+{
+  "name": "nodemodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Catalizcs",
+  "license": "ISC",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.13.2",
+    "amlich": "0.0.2",
+    "bitly": "^7.1.2",
+    "cloudscraper": "^4.6.0",
+    "discord-image-generation": "^1.4.15",
+    "discord.js": "^12.5.3",
+    "fast-speedtest-api": "^0.3.2",
+    "fb-tools": "^2.0.1",
+    "gif-frames": "^1.0.1",
+    "gifencoder": "^2.0.1",
+    "googlethis": "^1.6.0",
+    "lyrics-finder": "^21.7.0",
+    "morse-decoder": "^3.0.1",
+    "node-cron": "^3.0.2",
+    "node-superfetch": "^0.2.3",
+    "pidusage": "^2.0.21",
+    "qrcode": "^1.5.1",
+    "random": "^3.0.6",
+    "sagiri": "^3.2.4",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^1.0.0",
+    "srod-v2": "^1.0.2",
+    "systeminformation": "^5.14.4",
+    "tesseract.js": "^2.1.5",
+    "tiktok-scraper": "^1.4.36",
+    "tinyurl": "^1.1.7",
+    "wikijs": "^6.3.2",
+    "ytdl-core": "^4.9.1"
+  }
+}

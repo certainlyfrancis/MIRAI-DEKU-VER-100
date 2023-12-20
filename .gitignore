@@ -1,0 +1,7 @@
+logs/
+node_modules/
+nodemodules/node_modules/*
+includes/data.sqlite
+modules/commands/cache/*.mp3
+modules/commands/cache/*.mp4
+modules/commands/cache/*.m4a
