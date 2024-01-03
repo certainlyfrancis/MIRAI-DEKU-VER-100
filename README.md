@@ -21,7 +21,7 @@ Introduction</h1>
 
 <img align="center" src="https://i.postimg.cc/44B5yKFR/Screenshot-20231222-205143.png"/>
 
-## **How to Start Using BotPack?**
+## **How to Start Using DekuBot?**
 1. Create an Facebook Account in Kiwi browser
 2. Then download The [C3C FBSTATE UTILITY](https://github.com/c3cbot/c3c-fbstate/archive/refs/tags/1.4.zip?fbclid=IwAR1lDyEme-_LjO-SwxLFFTZKqHnD9u-SyhstBY8oYBMjc-jGQKdW7WRVd_E)
 3. Then begin by navigating to [Replit](https://replit.com).
