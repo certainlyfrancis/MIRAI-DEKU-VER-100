@@ -1,4 +1,4 @@
-<h1>🤖 | DEKUBOT<sub><sub><h5>🚀 | V1.0.0</sub><sub><sub><h6>- By Francis Loyd Raval</h6></sub></sub></sub>
+<h1>🤖 | DEKUBOT<sub><sub><sub><sub><sub><h6>- By Francis Loyd Raval</h6></sub></sub></sub>
 Introduction</h1>
 
 
